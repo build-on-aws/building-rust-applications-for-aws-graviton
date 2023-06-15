@@ -1,11 +1,7 @@
-## My Project
+## Building Rust Applications For AWS Graviton
 
-TODO: Fill this README out!
+This repository contains the necessary code to learn how to build a Rust link shortener application for arm64-based AWS Graviton EC2 Instances. This code is provided as an example only and is not meant to be used in production.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
